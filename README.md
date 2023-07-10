@@ -27,12 +27,15 @@ This project aims to predict cricket scores using various machine learning algor
    ```
 3. Install the required dependencies:
    ```bash
-   pip install -r requirements.txt
+pip install pandas
+pip install seaborn 
+pip install matplotlib
+pip install  sklearn 
    ```
 
 ## Dataset
 
-The dataset used for this project consists of historical cricket match data, including information about teams, players, venues, innings, scores, and other relevant features. The dataset can be downloaded from [examplelink.com](https://examplelink.com).
+The dataset used for this project consists of historical cricket match data, including information about teams, players, venues, innings, scores, and other relevant features. The dataset can be downloaded in my project 
 
 After downloading the dataset, place it in the `data/` directory of the project.
 
