@@ -27,10 +27,10 @@ This project aims to predict cricket scores using various machine learning algor
    ```
 3. Install the required dependencies:
    ```bash
-pip install pandas
-pip install seaborn 
-pip install matplotlib
-pip install  sklearn 
+   pip install pandas
+   pip install seaborn 
+   pip install matplotlib
+   pip install  sklearn 
    ```
 
 ## Dataset
